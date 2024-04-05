@@ -1,0 +1,113 @@
+
+:root {
+    /* font-size */
+  
+    --fs-xs: 12px;
+    --fs-xs2: 14px;
+    --fs-sm: 16px;
+    --fs-sm2: 18px;
+    --fs-md: 20px;
+    --fs-md2: 24px;
+    --fs-md3: 25px;
+    --fs-lg: 35px;
+    --fs-lg2: 36px;
+    --fs-xl: 48px;
+    --fs-xl2: 64px;
+  
+    /* font-weight */
+  
+    --fw-400: 400;
+    --fw-500: 500;
+    --fw-600: 600;
+    --fw-700: 700;
+  
+    /* font-family */
+  
+    --ff-poppins: "poppins", sans-serif;
+    --ff-Yantramanav: "Yantramanav", sans-serif;
+  }
+  
+  /* font-size */
+  
+  .fs-12 {
+    font-size: var(--fs-xs);
+  }
+  
+  .fs-14 {
+    font-size: var(--fs-xs2);
+  }
+  
+  .fs-16 {
+    font-size: var(--fs-sm);
+  }
+  
+  .fs-18 {
+    font-size: var(--fs-sm2);
+  }
+  
+  .fs-20 {
+    font-size: var(--fs-md);
+  }
+  
+  .fs-24 {
+    font-size: var(--fs-md2);
+  }
+  
+  .fs-25 {
+    font-size: var(--fs-md3);
+  }
+  
+  .fs-35 {
+    font-size: var(--fs-lg);
+  }
+  
+  .fs-36 {
+    font-size: var(--fs-lg2);
+  }
+  
+  .fs-48 {
+    font-size: var(--fs-xl);
+  }
+  
+  .fs-64 {
+    font-size: var(--fs-xl2);
+  }
+  
+  
+  .fw-400 {
+    font-weight: 400;
+  }
+  
+  .fw-500 {
+    font-weight: 500;
+  }
+  
+  .fw-600 {
+    font-weight: 600;
+  }
+  
+  .fw-700 {
+    font-weight: 700;
+  }
+  
+  
+  .ff-poppins {
+    font-family: "poppins", sans-serif;
+  }
+  
+  .ff-Yantramanav {
+    font-family: "Yantramanav", sans-serif;
+  }
+    
+  .text-color-white {
+    color: #ffffff;
+  }
+  
+  .text-color-black {
+    color: #000000;
+  }
+  
+  .text-color-blue {
+    color: #2c49fe;
+  }
+  
